@@ -1,0 +1,51 @@
+.container {
+  height: max-content;
+  width: 600px;
+  background-color: white;
+  border-radius: 20px;
+  padding: 30px 25px 0 25px;
+  overflow: hidden;
+  font-size: 16px;
+  margin: 50px 0;
+}
+
+.bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.notifications {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  font-size: 23px;
+}
+
+.mark:hover {
+  cursor: pointer;
+  color: hsl(219, 85%, 26%);
+
+}
+
+.noteification-number {
+  background-color: hsl(219, 85%, 26%);
+  padding: 0 12px;
+  border-radius: 5px;
+  color: white;
+  padding-bottom: 4px;
+  font-size: 20px;
+}
+
+.noteification-text {
+  font-weight: bold;
+}
+
+.cards {
+  padding: 30px 0px;
+}
+
+.card {
+  background-color: aqua;
+  /* margin-bottom: 10px; */
+}
