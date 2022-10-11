@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/NotificationsPage/static/css/main.e7e34784.css",
-    "main.js": "/NotificationsPage/static/js/main.9b61cf65.js",
+    "main.css": "/NotificationsPage/static/css/main.3c3fc616.css",
+    "main.js": "/NotificationsPage/static/js/main.ec7113d5.js",
     "static/js/787.e6749625.chunk.js": "/NotificationsPage/static/js/787.e6749625.chunk.js",
     "static/media/PlusJakartaSans-VariableFont_wght.ttf": "/NotificationsPage/static/media/PlusJakartaSans-VariableFont_wght.ae47e4d01757abf8ad63.ttf",
     "static/media/avatar-rizky-hasanuddin.webp": "/NotificationsPage/static/media/avatar-rizky-hasanuddin.2c9e9a5d4982e8f1b614.webp",
@@ -14,12 +14,12 @@
     "static/media/avatar-angela-gray.webp": "/NotificationsPage/static/media/avatar-angela-gray.be3397e8fa98e1cac926.webp",
     "index.html": "/NotificationsPage/index.html",
     "static/media/radio-button-on-outline.svg": "/NotificationsPage/static/media/radio-button-on-outline.7f44aae21229a1b0964bafa358fbc6bc.svg",
-    "main.e7e34784.css.map": "/NotificationsPage/static/css/main.e7e34784.css.map",
-    "main.9b61cf65.js.map": "/NotificationsPage/static/js/main.9b61cf65.js.map",
+    "main.3c3fc616.css.map": "/NotificationsPage/static/css/main.3c3fc616.css.map",
+    "main.ec7113d5.js.map": "/NotificationsPage/static/js/main.ec7113d5.js.map",
     "787.e6749625.chunk.js.map": "/NotificationsPage/static/js/787.e6749625.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7e34784.css",
-    "static/js/main.9b61cf65.js"
+    "static/css/main.3c3fc616.css",
+    "static/js/main.ec7113d5.js"
   ]
 }
